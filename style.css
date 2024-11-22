@@ -1,0 +1,21 @@
+#body {
+    background-color: rgb(43, 40, 34);
+}
+#counter {
+    color: rgb(236, 228, 228);
+    font-size: 32px;
+}
+#incCount {
+    margin-left: 20px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+#countingButton {
+    font-size: large;
+    margin-left: 15px;
+}
+#spaceChanger {
+    margin-left: 20px;
+    margin-bottom: 8px;
+    margin-top: 20px;
+}
