@@ -14,7 +14,7 @@
     font-size: large;
     margin-left: 15px;
 }
-#decreasingButton {
+#decreasingButton, #resetCount {
     margin-left: 10px;
     font-size: large;
     padding-left: 10px;
