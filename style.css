@@ -14,6 +14,13 @@
     font-size: large;
     margin-left: 15px;
 }
+#decreasingButton {
+    margin-left: 10px;
+    font-size: large;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
 #spaceChanger {
     margin-left: 20px;
     margin-bottom: 8px;
